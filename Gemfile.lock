@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:alihen/watchbuild.git
+  remote: https://github.com/alihen/watchbuild.git
   revision: 67beacd2702102d1e5bb77841778df9e7933f160
   branch: support-slack-notifications
   specs:
